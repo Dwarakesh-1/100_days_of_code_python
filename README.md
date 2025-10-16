@@ -51,3 +51,8 @@ Dwarakesh Nallandula
 -----------------------------------------
 ### 📣 Let’s Connect
 If you're a recruiter, mentor, or fellow learner—I'd love to connect, collaborate, or hear your feedback. Drop a ⭐ if you find this repo helpful!
+-----------------------------------------
+### 📜 License
+This project is licensed under the **MIT License**.
+You are free to use, modify, and distribute this code with proper attribution.
+
